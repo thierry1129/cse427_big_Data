@@ -1,0 +1,3 @@
+I think this homework is really useful in helping me understand how to actually create a program to process big data tasks. I also learned a lot from the wordcount example, 
+
+This homework is reasonably long, but it is rewarding since I learned how a mapper, reducer, and java functions in big data tasks. I also learned how to manipulate HDFS better. 
