@@ -1,24 +1,51 @@
 If you're seeing this file, you have successfully checked out your repository. Please take a few minutes to answer the following questions (write YES or NO below the questions, provide a list when appropriate).
 
+
+
+
 Don't forget to commit your answers when you are done!
 
-Name:
+
+
+Name: Terry LYU
+
+
 Major:
 
+ Computer Science , Finance
+
 IMPORTANT: By committing hw1_questionaire you confirm, that you have read and understood 
-the policies and grading procedure of CSE427s. The course policies and 
+the policies and grading procedure of CSE427s. 
+
+The course policies and 
 grading procedure can be found here: 
 http://sites.wustl.edu/neumann/courses/fall-2016/cse-427s/syllabus/
 
+
+
+
 1. Programming experience: are you familiar with Java?
+
+
+Yes
+
  
 
 
 2. Have you taken CSE 247 (former CSE 241)? 
 
+
+
 If not, are you familiar with the following concepts/algorithms:
 - Hashing
 - Sorting 
+
+
+
+Yes I have taken CSE247
+
+
+
 
 
 
@@ -29,6 +56,12 @@ If not, are you familiar with the following concepts:
 - Probability
 
 
+Yes, I have taken Math 309
+
+
+
+
+
 
 4. What do you hope to get out of this class?
 
@@ -37,3 +70,6 @@ If not, are you familiar with the following concepts:
 
 
 
+
+
+everything
