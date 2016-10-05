@@ -1,0 +1,3 @@
+This homework is reasonably long, it provides us with some really helpful and useful practise with tool runner and how to implement tool runner on our mapreduce code.
+
+I enjoyed it a lot, although it tk us about three hours to finish it, I still think it is a good practise of big data, and should be extremely useful.  
