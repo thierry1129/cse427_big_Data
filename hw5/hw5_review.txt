@@ -1,0 +1,1 @@
+This homework is reasonaly long. We got stuck on the partitioner part for a while because we are trying to use toolrunner to pass along the files. But we couldn't get it to work so we decided to discard toolrunner, and pass the files using the difficult way. Then it worked! We were really happy! 
