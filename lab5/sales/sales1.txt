@@ -1,0 +1,3 @@
+Alice	2999	us
+Bob	3652	ca
+Carlos	2764	mx
