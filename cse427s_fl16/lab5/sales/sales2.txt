@@ -1,0 +1,4 @@
+Dieter	1749	de
+Etienne	2368	fr
+Fredo	five	it
+	100	us
