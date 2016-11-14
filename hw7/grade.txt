@@ -1,0 +1,33 @@
+grading comments for terrylu. If you have any questions please post on piazza using tag re(grading) and include your wustl key and grader.
+
+Grace Meilen
+
+
+Problem 1
+(a) 3/9
+First mapper emits (i, vi*mij), SumReducer, Identity Mapper, SumReducer
+(b) 6/15
+Input correct.
+(c) 6/6
+
+15/30
+
+Problem 2
+(a) 8/8
+(b) 4/8
+Equation looks correct, incorrect answer
+(c) 14/14
+
+26/30
+
+Problem 3
+(a) 9/9
+(b) 4/6
+xz different output keys produced by y reducers each x + z elements per key
+(c) 9/9
+(d) 6/6
+(e) 10/10
+
+38/40
+
+Total: 79/100
