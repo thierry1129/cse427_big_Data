@@ -1,0 +1,1 @@
+this homework is reasonably long, it prepares me well with how to read and write spark programs. it took me about two hours to finish it. I really enjoy doing it. the last part however, is quite challenging. i had to dig though a lot of materials to find out how to start off writing a spark program. i really enjoy the process tho.
